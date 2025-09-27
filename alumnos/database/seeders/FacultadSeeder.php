@@ -8,9 +8,7 @@ use App\Models\Facultad;
 
 class FacultadSeeder extends Seeder
 {
-    /**
-     * Run the database seeds.
-     */
+   
     public function run(): void {
   foreach ([
     'Ingeniería en Sistemas', 'Medicina', 'Derecho', 'Arquitectura',
